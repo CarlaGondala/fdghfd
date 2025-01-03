@@ -1,3 +1,2 @@
-git add requirements.txt
-git commit -m "Update dependencies for compatibility"
-git push heroku main
+pyTelegramBotAPI==4.3.1
+pyotp==2.6.0
